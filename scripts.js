@@ -27,7 +27,7 @@ Crie uma landing page COMPLETA e VISUALMENTE IMPRESSIONANTE para o negócio desc
 Todo o conteúdo em português, criativo e específico para o negócio.`
 
 
-// Clicou no Botão GERAR - Chama essa função
+
 async function gerarCodigo() {
 
 
@@ -42,8 +42,7 @@ async function gerarCodigo() {
         body: JSON.stringify({
             "model": "llama-3.3-70b-versatile",
             "messages": [
-                // user = usuário - a pessoa que está mexendo no site pede
-                // system = quem a IA deve ser
+                
                 {
                     "role": "user",
                     "content": textarea
