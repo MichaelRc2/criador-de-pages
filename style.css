@@ -9,11 +9,11 @@
 
 body {
     background: #09090b; 
-    color: #fafafa;  /* cor do texto */
+    color: #fafafa;  
     padding: 60px 20px;
     display: flex;
-    flex-direction: column;  /* um debaixo do outro */
-    align-items: center;  /* alinhar ao centro */
+    flex-direction: column;  
+    align-items: center;  
 }
 
 .etiqueta {
@@ -21,8 +21,8 @@ body {
 }
 
 h1 {
-    font-size: 52px;/* Tamanho do texto */
-    font-weight: 800; /* grossura da fonte*/
+    font-size: 52px;
+    font-weight: 800; 
     color: #fafafa;
 }
 
@@ -46,7 +46,7 @@ span {
 }
 
 textarea {
-   width: 80%;  /* largura */
+   width: 80%; 
    resize: none;
    outline: none;
    background: transparent;
@@ -62,8 +62,8 @@ button {
     color: #ffffff;
     background: #7c3aed;
     border: none; 
-    border-radius: 10px; /* arredondar a bordar */
-    cursor: pointer;  /* trocar o cursor do mouse */
+    border-radius: 10px; 
+    cursor: pointer;  
     font-weight: 600;
 }
 
@@ -84,12 +84,12 @@ button {
     padding: 20px;
     font-size: 12px;
     color: #22c55e;
-    white-space: pre-wrap;  /* quebrar linha */
-    overflow: auto; /* scroll do mouse */
+    white-space: pre-wrap;  
+    overflow: auto; 
     height: 600px;
     border-radius: 12px;
     border: 1px solid #27272a;
-    /* tamanho da borda / o tipo de borda / a cor da borda */
+    
 }
 
 .bloco-site {
