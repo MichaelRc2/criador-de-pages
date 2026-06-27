@@ -19,8 +19,6 @@ A aplicação utiliza uma API de IA integrada de forma segura através de funç�
 - CSS
 - JavaScript
 - API de IA (Groq)
-- Vercel (deploy e backend serverless)
-
 ---
 
 ## 🔐 Segurança
